@@ -1,0 +1,33 @@
+body {
+  max-width: 960px;
+  margin: auto;
+}
+input {
+  text-align: center;
+  width: 300px;
+}
+div {
+  width: 300px;
+  margin: auto;
+}
+button {
+  width: 100px;
+  margin-left: 100px;
+}
+#information {
+  width: 960px;
+}
+th, td {
+  border: solid;
+}
+table {
+  border-collapse: collapse;
+  margin: auto;
+}
+.thtdwidth {
+  width: 150px;
+}
+#error {
+  text-align: center;
+  color: red;
+}
